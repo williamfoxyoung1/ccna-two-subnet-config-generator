@@ -433,7 +433,7 @@ The test topology demonstrates communication between the two IPv4 subnets and th
 
 ### Connectivity Testing from PC-A
 
-![Ping From PC-A](screenshots/ping-from-pc-a.png)
+![ From PC-A](screenshots/ping-from-pc-a.png)
 
 Testing from PC-A includes connectivity to:
 
