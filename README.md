@@ -551,27 +551,6 @@ The goal is to automate repetitive subnetting and configuration work while maint
 
 ---
 
-## Repository Structure
-
-```text
-ccna-two-subnet-config-generator/
-│
-├── ccna_config_generator.py
-├── README.md
-├── .gitignore
-│
-└── screenshots/
-    ├── ccna-config-generator.png
-    ├── pc-a-config.png
-    ├── pc-b-config.png
-    ├── router-config.png
-    ├── sw1-config.png
-    ├── ping-from-pc-a.png
-    └── ping-from-pc-b.png
-```
-
----
-
 ## Disclaimer
 
 This project is intended for educational, CCNA lab, and portfolio use.
